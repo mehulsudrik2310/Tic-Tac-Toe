@@ -38,6 +38,7 @@ class _GameState extends State<Game> {
     ];
     return buttons;
   }
+  
   void playgame(Button b)
   {
     setState(() {
